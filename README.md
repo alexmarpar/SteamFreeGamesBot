@@ -14,7 +14,7 @@ Important note⚠️:
 * 3. Put your discordwebhook url changing the variable of DISCORDWEBHOOK with the valor of 'your-url.'
 * EXAMPLE: `DISCORDWEBHOOK = 'Your_url'`.
 * 4. Use your github repository and configure a github action for execute the bot x times, you have a screenshot of the parameters of github actions yml.
-![config github actions yml]("https://github.com/user-attachments/assets/cc7bc004-e52f-43f2-98ba-c028c06da25a")
+![config github actions yml](https://github.com/user-attachments/assets/cc7bc004-e52f-43f2-98ba-c028c06da25a)
 
 
 * note: ***I am not responsible for the use that is made of the software.***
