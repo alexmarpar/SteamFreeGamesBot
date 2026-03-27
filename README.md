@@ -10,7 +10,7 @@ Important note⚠️:
 ## INSTRUCTIONS
 
 * 1. Install python (stable version).
-* 2. Install the necesaries librarys with `pip` in requirements.txt and download `bot.py`.
+* 2. Install the necesaries librarys with `pip install requirements.txt`.
 * 3. Put your discordwebhook url changing the variable of DISCORDWEBHOOK with the valor of 'your-url.'
 * EXAMPLE: `DISCORDWEBHOOK = 'Your_url'`.
 * 4. Use your github repository and configure a github action for execute the bot x times, you have a screenshot of the parameters of github actions yml.
