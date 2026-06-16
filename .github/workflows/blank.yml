@@ -2,7 +2,7 @@ name: Ejecutar bot cada hora
 
 on:
   schedule:
-    - cron: '0 0 */2 * *'  # ejecuta a la hora en punto
+    - cron: '0 18 * * 5'  # ejecuta a la hora en punto
   workflow_dispatch:     # permite ejecución manual
 
 jobs:
