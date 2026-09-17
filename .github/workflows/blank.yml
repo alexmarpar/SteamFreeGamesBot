@@ -25,5 +25,5 @@ jobs:
 
       - name: Ejecutar bot
         env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORDWEBHOOK }}
         run: python bot.py
